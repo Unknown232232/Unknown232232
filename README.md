@@ -8,7 +8,7 @@
 
 
 
-##👋 Hi, I'm Dennis
+👋 Hi, I'm Dennis
 
 FIAE in Umschulung
 Software Development | AI | Automation
