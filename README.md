@@ -23,13 +23,9 @@ sondern setze die Inhalte in eigenen Projekten praktisch um.
 
 🚀 Current Focus
 
-• C# / .NET
 • JavaScript
 • HTML / CSS
-• Software Architecture
-• APIs
 • Git / GitHub
-• AI-assisted Development
 • Automation
 
 ---
@@ -52,17 +48,6 @@ Softwarearchitektur
 
 🚀 Featured Projects
 
-CarbonCore
-Technisches Forschungs- und Simulationsprojekt
-C++20 · Asynchronous Systems · Processor Architecture
-
-J.A.R.V.I.S.
-Persönlicher Software-Assistent
-C# / .NET · AI · Automation
-
-ProjectOffice
-Anwendungsprojekt zur Organisation und Verwaltung
-C# / .NET
 
 Umschulungs-Projekte
 Praktische Projekte aus meiner FIAE-Umschulung
@@ -71,9 +56,6 @@ Praktische Projekte aus meiner FIAE-Umschulung
 
 🛠️ Technologies
 
-C#
-.NET
-C++20
 JavaScript
 HTML
 CSS
