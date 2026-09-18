@@ -32,17 +32,7 @@ sondern setze die Inhalte in eigenen Projekten praktisch um.
 
 🧠 Currently Learning
 
-Fachinformatiker für Anwendungsentwicklung >
-
-Programmierung >
-
-Softwareentwicklung >
-
-Datenbanken>
-
-APIs >
-
-Softwarearchitektur
+Fachinformatiker für Anwendungsentwicklung > Programmierung > Softwareentwicklung > Datenbanken > APIs > Softwarearchitektur
 
 ---
 
