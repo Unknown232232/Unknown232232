@@ -1,5 +1,10 @@
 <div align="center">
 
+<!-- Loading Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=480&height=35&lines=Initializing+profile...;Loading+modules...;System+ready." alt="Loading Animation" />
+
+<br/>
+
 <!-- Animated Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=160&section=header&text=Dennis%20L%C3%B6wen&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=FIAE%20in%20Umschulung&descAlignY=55&descSize=18" width="100%" alt="Animated Header"/>
 
