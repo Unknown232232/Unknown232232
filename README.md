@@ -1,3 +1,5 @@
+<div align="center">
+
 ###
 
 <picture data-importer="pacman">
@@ -6,84 +8,78 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Unknown232232/Unknown232232/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
+# Hallo, ich bin Dennis 👋
 
+**Fachinformatiker für Anwendungsentwicklung (in Umschulung)**  
+Frontend · JavaScript · HTML/CSS · Softwareentwicklung
 
-👋 Hi, I'm Dennis
+Ich lerne Softwareentwicklung praxisnah und setze die Inhalte der Umschulung direkt in eigenen Projekten um.
 
-FIAE in Umschulung
-Software Development | AI | Automation
-
-Ich befinde mich aktuell in der Umschulung zum
-Fachinformatiker für Anwendungsentwicklung.
-
-Ich lerne Softwareentwicklung nicht nur theoretisch,
-sondern setze die Inhalte in eigenen Projekten praktisch um.
-
----
-
-🚀 Current Focus
-
-• JavaScript
-• HTML / CSS
-• Git / GitHub
-• Automation
-
----
-
-🧠 Currently Learning
-
-Fachinformatiker für Anwendungsentwicklung > Programmierung > Softwareentwicklung > Datenbanken > APIs > Softwarearchitektur
-
----
-
-🚀 Featured Projects
-
-
-Umschulungs-Projekte
-Praktische Projekte aus meiner FIAE-Umschulung
-
----
-
-🛠️ Technologies
-
-JavaScript
-HTML
-CSS
-Git
-GitHub
-VS Code
-###
-
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
-###
 ---
 
-🎯 Goals
+### 🚀 Aktueller Fokus
 
-• Softwareentwicklung professionell beherrschen
-• Eigene Anwendungen entwickeln
-• AI sinnvoll in Software integrieren
-• Automatisierung und intelligente Systeme entwickeln
-• Praktische Erfahrung durch eigene Projekte sammeln
+- Moderne Frontend-Entwicklung (HTML, CSS, JavaScript)
+- Responsive Design & UI-Komponenten
+- Git & professioneller Workflow mit GitHub
+- Praktische Anwendungsprojekte aus der Umschulung
 
 ---
 
-📈 GitHub
+### 🛠️ Tech Stack
 
-Hier dokumentiere ich meinen Lernfortschritt,
-meine Projekte und meine Entwicklung als Softwareentwickler.
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+</p>
 
-<div data-importer="socials" align="left">
-  <a href="https://www.linkedin.com/in/dennis-löwen-126446417" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
+---
+
+### 📂 Featured Projects
+
+| Projekt | Beschreibung | Tech |
+|---------|--------------|------|
+| **[BestellAPP](https://github.com/Unknown232232/BestellAPP)** | Responsive Bestell-App für ein Restaurant (Menü, Warenkorb, Bestellablauf) | HTML · CSS · JavaScript |
+| **[Fotogram](https://github.com/Unknown232232/Fotogram)** | Foto-Galerie / Image-Viewer mit modernen CSS-Techniken | HTML · CSS · JavaScript |
+| **[04_Git_Uebung](https://github.com/Unknown232232/04_Git_Uebung)** | Übungsprojekt zu Git-Workflow und grundlegender Web-Struktur | HTML · CSS · Git |
+
+---
+
+### 🎯 Ziele
+
+- Softwareentwicklung professionell und nachhaltig beherrschen
+- Eigene, gut dokumentierte Anwendungen entwickeln
+- Moderne Frontend-Technologien sicher einsetzen
+- AI und Automatisierung sinnvoll in Projekte integrieren
+- Praktische Erfahrung durch kontinuierliche eigene Projekte sammeln
+
+---
+
+### 📈 GitHub-Aktivität
+
+Hier dokumentiere ich meinen Lernfortschritt und die Entwicklung meiner Projekte während der Umschulung zum Fachinformatiker für Anwendungsentwicklung.
+
+---
+
+<div align="center">
+
+### Kontakt
+
+<a href="https://www.linkedin.com/in/dennis-löwen-126446417" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
+</a>
+
 </div>
