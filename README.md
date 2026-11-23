@@ -1,4 +1,4 @@
-<!-- <div align="center"> -->
+<div align="center">
 
 <!-- Loading Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=480&height=35&lines=Initializing+profile...;Loading+modules...;System+ready." alt="Loading Animation" />
